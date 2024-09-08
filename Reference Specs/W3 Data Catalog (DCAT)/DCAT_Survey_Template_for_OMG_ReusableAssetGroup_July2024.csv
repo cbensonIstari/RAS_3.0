@@ -1,0 +1,44 @@
+Class: Cataloged Resource,Property Name,Definition,Vote,Comments/Notes (Optional)
+6.4.1,access rights,Information about who can access the resource or an indication of its security status.,Required,"(REFERENCE: TO BE DELETED) Required generally means that someone should NOT be able to consider an asset 'reusable' without this.  The resources with this tag should likely be kept to a minimum so as to not overbloat the standard.  ""Design is what you say NO to"""
+6.4.2,conforms to,An established standard to which the described resource conforms.,Optional,"(REFERENCE: TO BE DELETED) Optional generally means that someone *could* include this information on a reusable asset, but it is not necessary."
+6.4.3,contact point,Relevant contact information for the cataloged resource. Use of vCard is recommended.,Not Needed,(REFERENCE: TO BE DELETED) 'Not needed' is a data field that is not needed for a reusable asset.
+6.4.4,creator,The entity responsible for producing the resource.,,
+6.4.5,description,A free-text account of the resource.,,
+6.4.6,title,A name given to the resource.,Optional,"(EXAMPLE: TO BE DELETED)  The title of the asset should be included, but not required - as some assets may not need a title and can just be reference by their data type.  Note that this is not to be confused with the 'file name' of the asset."
+6.4.7,release date,"Date of formal issuance (e.g., publication) of the resource.",,
+6.4.8,update/modification date,"Most recent date on which the resource was changed, updated or modified.",,
+6.4.9,language,A language of the resource.,,
+6.4.10,publisher,The entity responsible for making the resource available.,,
+6.4.11,identifier,A unique identifier of the resource being described or cataloged.,,
+6.4.12,theme/category,A main category of the resource. A resource can have multiple themes.,,
+6.4.13,type/genre,The nature or genre of the resource.,,
+6.4.14,relation,A resource with an unspecified relationship to the cataloged resource.,,
+6.4.15,qualified relation,Link to a description of a relationship with another resource.,,
+6.4.16,keyword/tag,A keyword or tag describing the resource.,,
+6.4.17,landing page,"A Web page that can be navigated to in a Web browser to gain access to the catalog, a dataset, its distributions and/or additional information.",,
+6.4.18,qualified attribution,Link to an Agent having some form of responsibility for the resource.,,
+6.4.19,license,A legal document under which the resource is made available.,,
+6.4.20,rights,"A statement that concerns all rights not addressed with dcterms
+or dcterms
+, such as copyright statements.",,
+6.4.21,has part,A related resource that is included either physically or logically in the described resource.,,
+6.4.22,has policy,An ODRL conformant policy expressing the rights associated with the resource.,,
+6.4.23,is referenced by,"A related resource, such as a publication, that references, cites, or otherwise points to the cataloged resource.",,
+6.4.24,previous version,The previous version of a resource in a lineage.,,
+6.4.25,has version,"This resource has a more specific, versioned resource.",,
+6.4.26,current version,"This resource has a more specific, versioned resource with equivalent content.",,
+6.4.27,replaces,"A related resource that is supplanted, displaced, or superseded by the described resource.",,
+6.4.28,version,The version indicator (name or identifier) of a resource.,,
+6.4.29,version notes,A description of changes between this version and the previous version of the resource.,,
+6.4.30,status,The status of the resource in the context of a particular workflow process.,,
+6.4.31,first,"The first resource in an ordered collection or series of resources, to which the current resource belongs.",,
+6.4.32,last,"The last resource in an ordered collection or series of resources, to which the current resource belongs.",,
+6.4.33,previous,The previous resource (before the current one) in an ordered collection or series of resources.,,
+6.5.1,title,A name given to the record.,,
+6.5.2,description,A free-text account of the record.,,
+6.5.3,listing date,"The date of listing (i.e., formal recording) of the corresponding dataset or service in the catalog.",,
+6.5.4,update/modification date,"Most recent date on which the catalog entry was changed, updated or modified.",,
+6.5.5,primary topic,"The dcat
+(dataset or service) described in the record.",,
+6.5.6,conforms to,An established standard to which the described resource conforms.,,
+ADD MORE :),,,,
