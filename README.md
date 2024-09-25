@@ -31,7 +31,6 @@ This repository contains the full specification of RAS 3.0, along with examples,
 
 ### Requirements:
 - A development environment supporting RAS-compliant tools (e.g., UML, BPMN editors, IDEs).
-- [RAS 3.0 Validator Tool](link-to-validator-tool) for ensuring your assets comply with the RAS 3.0 specification.
 
 ### Installation:
 
